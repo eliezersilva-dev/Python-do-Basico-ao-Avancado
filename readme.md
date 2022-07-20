@@ -5,11 +5,11 @@
  ✔️ Curso de Python 3 do Básico Ao Avançado (com projetos reais)
 
 
-📌 Vamos iniciar do zero, desde a instalação do Python 3 até as partes bem mais avançadas da linguagem, como módulos de terceiros, bases de dados (MySQL, SQLite, etc...), web scraping, padrões de projeto GoF (Design Patterns), expressões regulares (RegEx) e muito mais. Alguns dos módulos que abordaremos  já são consagrados no mercado, como Django, PyQT5, Selenium e vários outros.
+📌 Começando com a instalação do Python 3 até as partes bem mais avançadas da linguagem, como módulos de terceiros, bases de dados (MySQL, SQLite, etc...), web scraping, padrões de projeto GoF (Design Patterns) e expressões regulares (RegEx). Módulo voltados para o mercado, como Django, PyQT5, Selenium e vários outros.
 
-📌 Criaremos projetos reais do zero, como um conversor de vídeos usando Python e ffmpeg, um gerador e validador de CPF (você vai aprender a validar CNPJ também) usando PyQT5, realizar cálculo de redes IPv4, um blog e um e-commerce básicos nos nossos projetos finais usando Django.
+📌 Projetos reais do zero, como um conversor de vídeos usando Python e ffmpeg, um gerador e validador de CPF usando PyQT5, realizar cálculo de redes IPv4, um blog e um e-commerce básico usando Django.
 
-📌 Também faremos deploy da nossa aplicação em um servidor com Linux no Google Cloud Platform, ou seja, você vai ter que colocar a mão na massa para subir e configurar um servidor Linux e suas chaves SSH junto comigo (claro que te guiarei em todos os passos).
+📌 Deploy da aplicação em um servidor com Linux no Google Cloud Platform, prática para subir e configurar um servidor Linux e suas chaves SSH.
 
 ✔️ Este curso está dividido da seguinte maneira:
 
@@ -23,7 +23,7 @@
 
 - Bases de dados: inclui aulas relacionadas com bases de dados no Python
 
-- Django: Criaremos alguns projetos (sites) utilizando o Django.
+- Django: Criação de alguns projetos (sites) utilizando o Django.
 
 - Testes no Python (com TDD básico)
 
@@ -31,11 +31,11 @@
 
 - Design Patterns (Padrões de projeto - GoF) - Programação Orientada a Objetos Avançada
 
-- Bônus: seções de HTML5 e CSS3
+- Seções de HTML5 e CSS3
 
-- Bônus: seção de SQL com MySQL
+- Seção de SQL com MySQL
 
-✔️ Também vamos falar sobre interface gráfica com PyQT5 e QT Designer, criação de sites com Django e muito mais. Além de tudo isso, temos uma seção específica onde você aprender a executar as consultas mais comuns em bases de dados SQL (MySQL). Após essa seção o aluno será capaz de criar, apagar, atualizar, ler e fazer relações entre tabelas da base de dados.
+✔️ O curso também trata sobre interface gráfica com PyQT5 e QT Designer, criação de sites com Django e execução das consultas mais comuns em bases de dados SQL (MySQL).
 
 📌 Para quem é este curso:
 
@@ -46,5 +46,5 @@
 - Desenvolvedores avançados que querem aprender Django
 - Desenvolvedores avançados que querem aprender Design Patterns
 
-## Curso ministrado pelo Professor [Luiz Otávio Miranda](https://www.linkedin.com/in/todoespacoonline/)
-## Curso disponível em [Udemy](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
+### Curso ministrado pelo Professor [Luiz Otávio Miranda](https://www.linkedin.com/in/todoespacoonline/)
+### Curso disponível em [Udemy](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
