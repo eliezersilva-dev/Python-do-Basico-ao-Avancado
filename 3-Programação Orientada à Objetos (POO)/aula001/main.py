@@ -3,25 +3,19 @@ Classes
 """
 from pessoa import Pessoa
 
-p1 = Pessoa('Eliezer', 41)  # mesmo que: p1.nome = 'Eliezer' p1.idade = 41
+p1 = Pessoa('Eliezer', 41)
 p2 = Pessoa('Maria', 27)
-print('------------')
+
+print('-'*10)
 
 p1.comer('maçã')
+p1.comer('manga')
 p1.parar_comer()
+p1.comer('banana')
+p1.falar('programação')
 p1.parar_comer()
-p1.comer('outra coisa')
-p1.comer('outra coisa de novo')
-p1.falar('POO')
-p1.parar_comer()
-p1.falar('POO')
-print(f'{p2.nome} nasceu no ano de {p2.ano_nascimento()}')
-print('------------')
+p1.falar('programação')
+p2.falar(f'{p1.nome} nasceu no ano de {p1.ano_nascimento()}')
 
-p2.falar('POO')
-p2.comer('abóbora')
-p2.para_falar()
-p2.comer('abóbora')
-p2.parar_comer()
-print(f'O ano de nascimento de {p1.nome} é {p1.ano_nascimento()}')
-print('------------')
+
+
