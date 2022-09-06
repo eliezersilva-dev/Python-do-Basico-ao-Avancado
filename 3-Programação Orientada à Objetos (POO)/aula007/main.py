@@ -1,5 +1,5 @@
 """
-Relações entre ente objetos
+Relações entre objetos
 Associação
 """
 
@@ -15,9 +15,5 @@ print(escritor.nome)
 print(caneta.cor)
 maquina.escrever()
 
-escritor.ferramenta = caneta
-escritor.ferramenta.escrever()
-
-
-
-
+Escritor.ferramenta = caneta
+Escritor.ferramenta.escrever()

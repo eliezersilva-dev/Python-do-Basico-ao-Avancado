@@ -2,7 +2,7 @@
 class Escritor:
     def __init__(self, nome):
         self.__nome = nome
-        self.__ferramenta = nome
+        self.__ferramenta = None
 
     @property
     def nome(self):
