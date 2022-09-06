@@ -1,0 +1,35 @@
+
+class Escritor:
+    def __init__(self, nome):
+        self.__nome = nome
+        self.__ferramenta = nome
+
+    @property
+    def nome(self):
+        return self.__nome
+
+    @property
+    def ferramenta(self):
+        return self.__ferramenta
+
+    @ferramenta.setter
+    def ferramenta(self, ferramenta):
+        self.__ferramenta = ferramenta
+
+
+class Caneta:
+    def __init__(self, cor):
+        self.__cor = cor
+
+    @property
+    def cor(self):
+        return self.__cor
+
+    def escrever(self):
+        print('Caneta está escrevendo...')
+
+
+class MaquinaEscrever:
+    def escrever(self):
+        print('Máquina de escrever está escrevendo...')
+
