@@ -1,0 +1,4 @@
+ERROR: Tijolophone não está ligado.
+INFO: Tijolophone está conectado.
+INFO: Tijolophone desconectando...
+ERROR: Tijolophone não está ligado.
