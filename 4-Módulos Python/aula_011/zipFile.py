@@ -18,3 +18,4 @@ with ZipFile('arquivo.zip', 'r') as zip:
 # EXTRAI
 with ZipFile('arquivo.zip', 'r') as zip:
     zip.extractall('descompactado')
+
