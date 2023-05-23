@@ -1,0 +1,13 @@
+- preparando ambiente -> pip install django whitenoise gunicorn django-bootstrap4 PyMySQL django-stdimage
+
+- anotando as dependências -> pip freeze > requeriments.txt
+
+- starter projeto -> django-admin startproject django2 .
+
+- criando a aplicação com o nome de 'core' -> django-admin startapp core
+
+- criando migrations (banco de dados) -> python manage.py migrate
+
+-criando superuser -> python manage.py createsuperuser (usado no projeto: Usuário: usuario, email: usuario@gmail.com, senha: usuario123)
+
+- rodar server -> python manage.py runserver
